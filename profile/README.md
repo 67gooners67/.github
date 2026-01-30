@@ -8,8 +8,8 @@
 
 **CryptoBot:** https://t.me/send?start=IVftnggXmRv8
 
-**TON:** `UQAtdMEig3Wl_D3FNx4RU3RhxnoJI3IizGxrrNj3O8Q-fDpK`
+**TON:** `UQB4PqsVLEz12f_xN4PQ4EeYAmK0O0DWrntXFxn9ZuiR-0ug`
 
-**USDT (TRC20):** `TBW9TFUh93U1G5eTT1VTsZw51L669khCiz`
+**USDT (TRC20):** `TBdi36ESpNiNeoWXwLZPGy7SG8a2hXYAw9`
 
 # Здесь могла быть ваша реклама
